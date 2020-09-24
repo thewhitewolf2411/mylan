@@ -1,0 +1,81 @@
+body{
+    background: #fff;
+}
+
+h3{
+    color: #D9000D;
+    font-size: 28pt;
+
+}
+
+.form-container{
+    background-color: #E8E8E8;
+}
+
+.text-bold{
+    font-weight: 600;
+}
+
+.form-group label:after{
+    content:"*";
+    color:red;
+}
+
+.red{
+    background: #D9000D;
+}
+
+.blue{
+    background: #00A9E0;
+}
+
+.white{
+    color: #fff;
+}
+
+.h-95{
+    height: 95%;
+}
+
+.h-5{
+    height: 5%;
+    border: 1px solid #707070;
+}
+
+.brtl-60{
+    border-top-left-radius: 60px;
+}
+
+.w-40{
+    width: 40%;
+}
+
+.w-60{
+    width: 60%;
+}
+
+.w-90{
+    width: 90%;
+}
+
+.fs-14{
+    font-size: 14pt;
+}
+
+.fs-18{
+    font-size: 18pt;
+}
+
+.fs-40{
+    font-size: 40pt;
+}
+
+footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+footer p{
+    margin: 0;
+    color: #fff;
+}
